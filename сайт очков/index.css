@@ -1,0 +1,1365 @@
+html {
+  background-color: beige;
+}
+
+.HeadOfsite {
+  background-color: RGBA(76, 177, 202, 1);
+  width: 1600px;
+  height: 45px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.HeadAnim span {
+  transition-property: all;
+  transition-duration: 0.6;
+  color: white;
+}
+.HeadAnim:hover {
+  text-transform: uppercase;
+}
+.HeadAnim2:hover {
+  font-size: 15px;
+}
+.Laung {
+  position: absolute;
+  width: 236px;
+  height: 13px;
+  top: 16px;
+  left: 188px;
+
+  font-size: 13px;
+  color: #bef2ff;
+}
+.HeadA {
+  text-decoration: none;
+  color: azure;
+}
+
+.Curr {
+  position: absolute;
+  width: 236px;
+  height: 13px;
+  top: 16px;
+  left: 305px;
+
+  font-size: 13px;
+  color: #bef2ff;
+}
+
+.Acc {
+  position: absolute;
+  width: 357px;
+  height: 13px;
+  top: 16px;
+  left: 1222px;
+
+  font-size: 13px;
+  color: #ffffff;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.Wish {
+  position: absolute;
+  width: 357px;
+  height: 13px;
+  top: 16px;
+  left: 1292px;
+
+  font-size: 13px;
+  color: #ffffff;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.Cheakout {
+  position: absolute;
+  width: 357px;
+  height: 13px;
+  top: 16px;
+  left: 1358px;
+
+  font-size: 13px;
+  color: #ffffff;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.LogIn {
+  position: absolute;
+  width: 357px;
+  height: 13px;
+  top: 16px;
+  left: 1430px;
+
+  font-size: 13px;
+  color: #ffffff;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.Singup {
+  position: absolute;
+  width: 357px;
+  height: 13px;
+  top: 16px;
+  left: 1485px;
+
+  font-size: 13px;
+  color: #ffffff;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.Acc:hover {
+  font-size: 14px;
+}
+.Cheakout:hover {
+  font-size: 14px;
+}
+.Singup:hover {
+  font-size: 14px;
+}
+.LogIn:hover {
+  font-size: 14px;
+}
+.Wish:hover {
+  font-size: 14px;
+}
+
+h2 {
+  background-color: white;
+  width: 1600px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.LeoShop {
+  position: absolute;
+  width: 200px;
+  height: 26px;
+  top: 84px;
+  left: 295px;
+
+  font-size: 36px;
+  color: #656565;
+  text-align: center;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+a.LEO {
+  text-decoration: none;
+  color: #656565;
+}
+
+a.LEO:hover {
+  font-size: 38px;
+}
+a.LEO:visited {
+  color: black;
+}
+a.LEO:active {
+  color: rgb(92, 61, 14);
+  font-size: 39px;
+}
+
+.home {
+  position: absolute;
+  width: 346px;
+  height: 10px;
+  top: 13px;
+  left: 89px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.SecondHeadA {
+  text-decoration: none;
+  color: #656565;
+}
+
+.women {
+  position: absolute;
+  width: 346px;
+  height: 60px;
+  top: 13px;
+  left: 159px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.men {
+  position: absolute;
+  width: 346px;
+  height: 10px;
+  top: 13px;
+  left: 229px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.other {
+  position: absolute;
+  width: 346px;
+  height: 10px;
+  top: 13px;
+  left: 299px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.Puch {
+  position: absolute;
+  width: 346px;
+  height: 10px;
+  top: 13px;
+  left: 389px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.SecondHeadA:hover {
+  font-size: 16px;
+  height: 14px;
+}
+/**/
+.SecondHeadA:active {
+  font-size: 17px;
+  height: 14px;
+  color: black;
+}
+
+.search {
+  position: absolute;
+  width: 177px;
+  height: 22px;
+  top: 90px;
+  left: 1176px;
+}
+.searchTerm {
+  border: 3px solid black;
+  border-right: none;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+}
+.searchTerm:focus {
+  color: #380136;
+}
+.searchButton {
+  position: absolute;
+  width: 177px;
+  height: 22px;
+  top: 90px;
+  left: 1176px;
+  border: 1px solid #9e0098;
+  background: #9e0098;
+  text-align: center;
+  color: #eeeeee;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+.submit {
+  position: absolute;
+  height: 28px;
+  top: 90px;
+  left: 1360px;
+}
+/**/
+.wrap {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.Sale {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 83px;
+  left: 1500px;
+}
+
+.Sale:hover {
+  width: 40px;
+  height: 40px;
+}
+
+.Sale:active {
+  width: 42px;
+  height: 42px;
+}
+
+.Basket {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 83px;
+  left: 1550px;
+}
+
+.Basket:hover {
+  width: 40px;
+  height: 40px;
+}
+
+.Basket:active {
+  width: 42px;
+  height: 42px;
+}
+
+.Cart {
+  position: absolute;
+  width: 59px;
+  height: 12px;
+  top: 96px;
+  left: 1600px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+a.CartAn {
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.CartAn :hover {
+  font-size: 16px;
+}
+
+.CartAn :active {
+  font-size: 17px;
+  width: 66px;
+  color: green;
+}
+
+.CartAn {
+  text-decoration: none;
+  color: #656565;
+}
+
+.PicturesGlasses {
+  position: absolute;
+  width: 1593px;
+  left: 152px;
+  margin-left: auto;
+  margin-right: auto;
+  border-left-color: black;
+  border-left-style: solid;
+  border-left-width: 7px;
+}
+
+.LeftButton2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 351px;
+  left: 351px;
+}
+
+.RightButton2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 351px;
+  left: 1600px;
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.RightButton {
+  transition-property: all;
+  transition-duration: 0.6;
+}
+
+.RightButton2:hover {
+  width: 62px;
+  height: 62px;
+  left: 1605px;
+}
+
+.LeftButton2:hover {
+  width: 62px;
+  height: 62px;
+  left: 346px;
+}
+
+h4.PreLastHeader {
+  background-color: white;
+  width: 1600px;
+  height: 2698px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.OnThePicture {
+  position: absolute;
+  width: 290px;
+  height: 35px;
+  top: 331px;
+  left: 466px;
+
+  font-size: 30px;
+  text-align: center;
+  font-weight: 100;
+  color: #ffffff;
+  background-color: black;
+  opacity: 0.5;
+  padding-top: 7px;
+  letter-spacing: 2px;
+}
+
+.OnThePicture2 {
+  position: absolute;
+  width: 380px;
+  height: 34px;
+  top: 375px;
+  left: 466px;
+
+  font-size: 30px;
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+  background-color: black;
+  opacity: 0.5;
+  padding-top: 7px;
+  letter-spacing: 1px;
+}
+
+.Features {
+  position: absolute;
+  width: 300px;
+  height: 17px;
+  top: 781px;
+  left: 243px;
+
+  font-size: 26px;
+  font-weight: 100;
+  color: #635f57;
+}
+
+.Girlinto {
+  position: absolute;
+  width: 252px;
+  height: 500px;
+  top: 777px;
+  left: 1365px;
+
+  border-top-style: solid;
+  border-top-color: RGBA(76, 177, 202, 1);
+  border-top-width: 4px;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+  transition-property: all;
+  transition-duration: 1s;
+}
+
+a.Girl {
+  text-decoration: none;
+}
+
+.Girlinto:hover {
+  border-top-color: #9e0098;
+  width: 253px;
+  height: 505px;
+}
+
+.BottomOfGirl {
+  position: absolute;
+  width: 253px;
+  height: 92px;
+  top: 1280px;
+  left: 1365px;
+}
+
+.FeaturedGlass {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  top: 800px;
+  left: 1427px;
+
+  font-size: 23px;
+  font-weight: bolder;
+  text-align: center;
+  transition-property: all;
+  transition-duration: 0.8s;
+}
+
+a.TextInGirl {
+  text-decoration: none;
+  color: #635f57;
+}
+
+.FeaturedGlass:hover {
+  font-size: 25px;
+  color: darkslategrey;
+  text-shadow: #9e0098 0px 0px 20px;
+}
+
+a.Check {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.CheckOutIn {
+  position: absolute;
+  width: 135px;
+  height: 31px;
+  top: 1216px;
+  left: 1427px;
+
+  font-size: 17px;
+  font-weight: 100;
+  text-align: center;
+  padding: 5px 5px;
+  padding-top: 15px;
+
+  background-color: RGBA(76, 177, 202, 1);
+  transition-property: all;
+  transition-duration: 0.7s;
+}
+
+.CheckOutIn:hover {
+  background-color: rgb(40, 185, 221);
+  width: 136px;
+  height: 32px;
+
+  font-weight: 600;
+}
+
+.Letter {
+  position: absolute;
+  width: 253px;
+  height: 284px;
+  top: 1410px;
+  left: 1365px;
+
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  padding-top: 20px;
+  color: #635f57;
+  border-top-color: RGBA(76, 177, 202, 1);
+  border-top-width: 4px;
+  border-top-style: solid;
+
+  background-color: white;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Nometter {
+  position: absolute;
+  width: 187px;
+  height: 34px;
+  top: 1518px;
+  left: 1401px;
+
+  font-size: 16px;
+  text-align: center;
+  color: #696969;
+}
+
+.search2 {
+  position: absolute;
+  width: 180px;
+  height: 28px;
+  top: 1589px;
+  left: 1399px;
+}
+
+.submit2 {
+  position: absolute;
+  width: 115px;
+  height: 47px;
+  top: 1636px;
+  left: 1436px;
+
+  color: #ffffff;
+  background-color: rgba(126, 177, 35, 1);
+  border: none;
+}
+
+.Glasses1 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 847px;
+  left: 243px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasse1 {
+  position: absolute;
+  width: 236px;
+  top: -10px;
+  left: 0px;
+}
+
+.Bin {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 257px;
+  left: 183px;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.Glasse1Text {
+  position: absolute;
+  top: 265px;
+  left: 10px;
+  width: 190px;
+  height: 50px;
+
+  font-size: 17px;
+  text-align: left;
+  color: #464148;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+span.GreenText {
+  color: RGBA(125, 177, 34, 1);
+}
+
+.Glasse1Text:hover {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.Bin:hover {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+}
+
+.Glasses2 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 847px;
+  left: 563px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasse2 {
+  position: absolute;
+  width: 236px;
+  top: -10px;
+  left: 0px;
+}
+
+.Bin2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 257px;
+  left: 183px;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.Glasse2Text {
+  position: absolute;
+  top: 265px;
+  left: 10px;
+  width: 172px;
+  height: 50px;
+
+  font-size: 17px;
+  text-align: left;
+  color: #464148;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.Bin2:hover {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+}
+
+.Glasse2Text:hover {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.Glasses3 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 847px;
+  left: 873px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasse3 {
+  position: absolute;
+  width: 236px;
+  top: -10px;
+  left: 0px;
+}
+
+.Bin3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 257px;
+  left: 183px;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.Glasse3Text {
+  position: absolute;
+  top: 265px;
+  left: 10px;
+  width: 190px;
+  height: 50px;
+
+  font-size: 17px;
+  text-align: left;
+  color: #464148;
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.Bin3:hover {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+}
+
+.Glasse3Text:hover {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.Sale {
+  text-decoration: line-through;
+}
+.Glasses4 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1211px;
+  left: 243px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses5 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1211px;
+  left: 563px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses6 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1211px;
+  left: 873px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses7 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1579px;
+  left: 243px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses8 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1579px;
+  left: 563px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses9 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 1579px;
+  left: 873px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Staff {
+  position: absolute;
+  width: 300px;
+  height: 17px;
+  top: 1950px;
+  left: 243px;
+
+  font-size: 26px;
+  font-weight: 100;
+  color: #635f57;
+}
+
+.Glasses10 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2015px;
+  left: 243px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses11 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2015px;
+  left: 563px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses12 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2015px;
+  left: 873px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.NewSmth {
+  position: absolute;
+  width: 300px;
+  height: 17px;
+  top: 2385px;
+  left: 243px;
+
+  font-size: 26px;
+  font-weight: 100;
+  color: #635f57;
+}
+
+.Glasses13 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2445px;
+  left: 243px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses14 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2445px;
+  left: 563px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.Glasses15 {
+  position: absolute;
+  width: 236px;
+  height: 321px;
+  top: 2445px;
+  left: 873px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  border-top: none;
+}
+
+.TheLastSite1 {
+  background-color: rgb(56, 193, 228);
+  width: 1600px;
+  height: 106px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.transport {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 2866px;
+  left: 305px;
+}
+
+.transport:hover {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+}
+
+.transport:active {
+  position: absolute;
+  width: 69px;
+  height: 69px;
+}
+
+.CallSymbol {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 2866px;
+  left: 1027px;
+}
+
+.CallSymbol:hover {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+}
+
+.CallSymbol:active {
+  position: absolute;
+  width: 69px;
+  height: 69px;
+}
+
+.PhoneCall {
+  position: absolute;
+  width: 400px;
+  height: 17px;
+  top: 2888px;
+  left: 380px;
+
+  font-size: 21px;
+  color: #ffffff;
+}
+
+.PhoneCall:hover {
+  font-size: 22px;
+}
+
+.PhoneCall:active {
+  font-size: 23px;
+}
+
+.Ordering {
+  position: absolute;
+  width: 450px;
+  height: 17px;
+  top: 2888px;
+  left: 1108px;
+
+  font-size: 21px;
+  color: #ffffff;
+}
+
+.Ordering:hover {
+  font-size: 22px;
+}
+
+.Ordering:active {
+  font-size: 23px;
+}
+
+.TheLastSite2 {
+  background-color: rgb(47, 158, 185);
+  width: 1600px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.TheLastSite3 {
+  background-color: RGBA(11, 75, 90, 1);
+  width: 1600px;
+  height: 67px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.Facebook {
+  text-decoration: none;
+  color: #f5f5f5;
+}
+
+.FacebookText {
+  position: absolute;
+  width: 102px;
+  height: 14px;
+  top: 3000px;
+  left: 305px;
+
+  font-size: 20px;
+  font-weight: 100;
+  color: #f5f5f5;
+}
+
+.FacebookText:hover {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.FacebookText:active {
+  font-size: 22px;
+}
+
+.Members {
+  position: absolute;
+  width: 96px;
+  height: 10px;
+  top: 3048px;
+  left: 305px;
+
+  font-size: 13px;
+  font-weight: lighter;
+  color: #ffffff;
+}
+
+.like {
+  position: absolute;
+  width: 47px;
+  height: 23px;
+  top: 3068px;
+  left: 305px;
+}
+
+.like:hover {
+  position: absolute;
+  width: 50px;
+  height: 26px;
+}
+
+.People {
+  position: absolute;
+  height: 132x;
+  width: 241px;
+  top: 3100px;
+  left: 305px;
+}
+
+.facebookText2 {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 3234px;
+  left: 305px;
+
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.TwitterText {
+  position: absolute;
+  width: 200px;
+  height: 14px;
+  top: 3000px;
+  left: 645px;
+
+  font-size: 20px;
+  font-weight: 100;
+  color: #f5f5f5;
+}
+
+.TwitterText:hover {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.TwitterText:active {
+  font-size: 22px;
+}
+
+.TwitterSymbol1IMG {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 3048px;
+  left: 645px;
+}
+
+.TwitterSymbol1IMG:hover {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+}
+
+.TwitterSymbol1IMG:active {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+}
+
+.TwitterSymbol2IMG {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 3161px;
+  left: 645px;
+}
+
+.TwitterSymbol2IMG:hover {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+}
+
+.TwitterSymbol2IMG:active {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+}
+
+.TextLeftTwitter1 {
+  position: absolute;
+  width: 165px;
+  height: 70px;
+  top: 3056px;
+  left: 702px;
+  color: #8adcf0;
+}
+
+.TextLeftTwitter2 {
+  position: absolute;
+  width: 165px;
+  height: 70px;
+  top: 3168px;
+  left: 702px;
+  color: #8adcf0;
+}
+
+span.WhiteText {
+  color: #ffffff;
+}
+
+.InformationText {
+  position: absolute;
+  width: 134px;
+  height: 14px;
+  top: 3000px;
+  left: 1005px;
+
+  font-size: 20px;
+  font-weight: 100;
+  color: #f5f5f5;
+}
+
+.InformationText:hover {
+  font-size: 21px;
+}
+
+.InformationText:active {
+  font-size: 22px;
+}
+
+.InfoAbout {
+  position: absolute;
+  width: 190px;
+  height: 133px;
+  top: 3061px;
+  left: 983px;
+
+  font-size: 13px;
+  color: #ffffff;
+}
+
+a.Contact {
+  text-decoration: none;
+  color: #f5f5f5;
+}
+
+.ContactText {
+  position: absolute;
+  width: 200px;
+  height: 14px;
+  top: 3000px;
+  left: 1380px;
+
+  font-size: 20px;
+  font-weight: 100;
+  color: #f5f5f5;
+}
+
+.ContactText:hover {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.ContactText:active {
+  font-size: 22px;
+}
+
+.Contacts {
+  position: absolute;
+  width: 116px;
+  height: 106px;
+  top: 3045px;
+  left: 1361px;
+
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.Symbol1 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 3180px;
+  left: 1384px;
+}
+
+.Symbol1:hover {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+
+.Symbol1:active {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+}
+
+.Symbol2 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 3180px;
+  left: 1435px;
+}
+
+.Symbol2:hover {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+
+.Symbol2:active {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+}
+
+.Symbol3 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 3180px;
+  left: 1489px;
+}
+
+.Symbol3:hover {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+
+.Symbol3:active {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+}
+
+.Symbol4 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 3180px;
+  left: 1542px;
+}
+
+.Symbol4:hover {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+
+.Symbol4:active {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+}
+
+.A2013 {
+  position: absolute;
+  width: 300px;
+  height: 13px;
+  top: 3380px;
+  left: 305px;
+
+  font-size: 13px;
+  color: #8adcf0;
+}
+
+.LastThings {
+  position: absolute;
+  width: 780px;
+  height: 13px;
+  top: 3380px;
+  left: 1105px;
+
+  font-size: 13px;
+  color: #8adcf0;
+}
