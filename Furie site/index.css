@@ -1,0 +1,1472 @@
+body {
+  width: 100%;
+  margin: 0%;
+}
+
+.FirstHead {
+  background-color: rgb(7, 7, 7);
+  width: 100%;
+  height: 1150px;
+}
+
+.Logo {
+  position: absolute;
+  width: 55px;
+  height: 49px;
+  top: 60px;
+  left: 101px;
+  color: #135ec5;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.Logo:hover {
+  transform: scale(1.1) rotate(360deg);
+  position: absolute;
+  width: 58px;
+  height: 52px;
+}
+
+.Logo:active {
+  position: absolute;
+  width: 59px;
+  height: 53px;
+  transition-duration: 0.6;
+}
+
+.Phone {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 67px;
+  left: 1534px;
+  transition-duration: 0.6s;
+  transition-property: all;
+}
+
+.Phone:hover {
+  position: absolute;
+  width: 37px;
+  height: 36px;
+}
+
+.Phone:active {
+  position: absolute;
+  width: 38px;
+  height: 37px;
+}
+
+.Mail {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 70px;
+  left: 1284px;
+  transition-duration: 0.6s;
+  transition-property: all;
+}
+
+.Mail:hover {
+  position: absolute;
+  width: 37px;
+  height: 36px;
+}
+
+.Mail:active {
+  position: absolute;
+  width: 38px;
+  height: 37px;
+}
+
+.Email {
+  position: absolute;
+  width: 154px;
+  height: 17px;
+  top: 77px;
+  left: 1336px;
+
+  font-size: 18px;
+  color: #ffffff;
+  transition-duration: 0.6s;
+  transition-property: all;
+}
+
+.Email:hover {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.Email:active {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.Number {
+  position: absolute;
+  width: 143px;
+  height: 14px;
+  top: 78px;
+  left: 1586px;
+
+  font-size: 18px;
+  color: #ffffff;
+  transition-duration: 0.6s;
+  transition-property: all;
+}
+
+.Number:hover {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.Number:active {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.LogIn1 {
+  position: absolute;
+  width: 120px;
+  top: 60px;
+  left: 1755px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  color: #135ec5;
+  background-color: white;
+  border-radius: 35px;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.LogIn1:hover {
+  background-color: rgb(7, 7, 7);
+  font-size: 17px;
+  color: white;
+  width: 122px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.LogIn1:active {
+  font-size: 18px;
+  width: 124px;
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+
+.BackOfCar1 {
+  position: absolute;
+  width: 808px;
+  height: 135px;
+  top: 274px;
+  left: 597px;
+}
+
+.BackOfCar2 {
+  position: absolute;
+  width: 533px;
+  height: 135px;
+  top: 426px;
+  left: 317px;
+}
+
+.BackOfCar3 {
+  position: absolute;
+  width: 394px;
+  height: 135px;
+  top: 426px;
+  left: 1330px;
+}
+
+.ImgOfMers {
+  position: absolute;
+  width: 793px;
+  height: 490px;
+  top: 342px;
+  left: 605px;
+
+  transition-duration: 1.6s;
+  transition-property: all;
+}
+
+.ImgOfMers:hover {
+  position: absolute;
+  width: 843px;
+  height: 540px;
+  top: 305px;
+  left: 585px;
+}
+
+.ImgOfMers:active {
+  position: absolute;
+  width: 860px;
+  height: 557px;
+}
+
+.Make1 {
+  position: absolute;
+  width: 330px;
+  height: 24px;
+  top: 989px;
+  left: 235px;
+
+  font-size: 30px;
+  text-align: left;
+  font-weight: 700;
+  color: #3c3c3c;
+
+  background-color: rgb(7, 7, 7);
+  border: none;
+  border-bottom: #131210;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Model1 {
+  position: absolute;
+  width: 330px;
+  height: 24px;
+  top: 989px;
+  left: 674px;
+
+  font-size: 30px;
+  text-align: left;
+  font-weight: 700;
+  color: #3c3c3c;
+
+  background-color: rgb(7, 7, 7);
+  border: none;
+  border-bottom: #131210;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.City1 {
+  position: absolute;
+  width: 330px;
+  height: 24px;
+  top: 989px;
+  left: 1113px;
+
+  font-size: 30px;
+  text-align: left;
+  font-weight: 700;
+  color: #3c3c3c;
+
+  background-color: rgb(7, 7, 7);
+  border: none;
+  border-bottom: #131210;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.submit {
+  position: absolute;
+  width: 217px;
+  height: 58px;
+  top: 979px;
+  left: 1556px;
+
+  font-size: 16px;
+  font-weight: 800;
+  color: #ffffff;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border-radius: 25px;
+  border: RGBA(19, 94, 197, 1) solid 2px;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.submit:hover {
+  position: absolute;
+  width: 221px;
+  height: 62px;
+
+  background-color: #ffffff;
+  border: RGBA(19, 94, 197, 1) solid 2px;
+
+  font-size: 17px;
+  color: RGBA(19, 94, 197, 1);
+}
+
+.submit:active {
+  position: absolute;
+  width: 224px;
+  height: 65px;
+
+  background-color: #ffffff;
+  border: red solid 2px;
+
+  font-size: 18px;
+  color: red;
+}
+
+.SimpleTobuy {
+  position: absolute;
+  width: 220px;
+  height: 18px;
+  top: 917px;
+  left: 890px;
+
+  font-size: 18px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+main {
+  background-color: white;
+  width: 100%;
+  height: 3400px;
+}
+
+.TakeYourbest {
+  position: absolute;
+  width: 132px;
+  height: 18px;
+  top: 1192px;
+  left: 934px;
+
+  font-size: 18px;
+  font-weight: 800;
+  font-size: 18px;
+  color: #c1c1c1;
+}
+
+.LogoCar1 {
+  position: absolute;
+  width: 69px;
+  height: 55px;
+  top: 1286px;
+  left: 103px;
+}
+
+.LogoCar2 {
+  position: absolute;
+  width: 115px;
+  height: 60px;
+  top: 1284px;
+  left: 367px;
+}
+
+.LogoCar3 {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 1280px;
+  left: 678px;
+}
+
+.LogoCar4 {
+  position: absolute;
+  width: 73px;
+  height: 71px;
+  top: 1278px;
+  left: 962px;
+}
+
+.LogoCar5 {
+  position: absolute;
+  width: 122px;
+  height: 47px;
+  top: 1290px;
+  left: 1225px;
+}
+
+.LogoCar6 {
+  position: absolute;
+  width: 61px;
+  height: 66px;
+  top: 1281px;
+  left: 1542px;
+}
+
+.LogoCar7 {
+  position: absolute;
+  width: 78px;
+  height: 65px;
+  top: 1282px;
+  left: 1821px;
+}
+
+.LogoCar1:hover {
+  position: absolute;
+  width: 72px;
+  height: 58px;
+}
+
+.LogoCar2:hover {
+  position: absolute;
+  width: 118px;
+  height: 63px;
+}
+
+.LogoCar3:hover {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+}
+
+.LogoCar4:hover {
+  position: absolute;
+  width: 76px;
+  height: 74px;
+}
+
+.LogoCar5:hover {
+  position: absolute;
+  width: 125px;
+  height: 50px;
+}
+
+.LogoCar6:hover {
+  position: absolute;
+  width: 64px;
+  height: 69px;
+}
+
+.LogoCar7:hover {
+  position: absolute;
+  width: 81px;
+  height: 68px;
+}
+
+.BmwText {
+  position: absolute;
+  width: 456px;
+  height: 124px;
+  top: 1561px;
+  left: 177px;
+}
+
+.BmwText2 {
+  position: absolute;
+  width: 629px;
+  height: 129px;
+  top: 1699px;
+  left: 288px;
+}
+
+.Bmw {
+  position: absolute;
+  width: 524px;
+  height: 286px;
+  top: 1596px;
+  left: 242px;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.Bmw:hover {
+  position: absolute;
+  width: 544px;
+  height: 306px;
+  top: 1586px;
+  left: 244px;
+}
+
+.Bmw:active {
+  position: absolute;
+  width: 544px;
+  height: 306px;
+  top: 1587px;
+  left: 250px;
+}
+
+.Bmwseries {
+  position: absolute;
+  width: 354px;
+  height: 47px;
+  top: 1583px;
+  left: 1016px;
+
+  font-size: 60px;
+  font-weight: bolder;
+  color: #135ec5;
+}
+
+.TextBmw {
+  position: absolute;
+  width: 693px;
+  height: 65px;
+  top: 1693px;
+  left: 1016px;
+
+  font-size: 16px;
+  color: #c1c1c1;
+  text-align: left;
+  font-weight: 100;
+}
+
+.ViewAll {
+  position: absolute;
+  width: 217px;
+  top: 1816px;
+  left: 1013px;
+
+  padding-top: 23px;
+  padding-bottom: 22px;
+
+  font-size: 16px;
+  text-align: center;
+  font-weight: 800;
+  color: #ffffff;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: RGBA(19, 94, 197, 1) solid 2px;
+  border-radius: 35px;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+.ViewAll:hover {
+  position: absolute;
+  width: 220px;
+  padding-top: 25px;
+  padding-bottom: 24px;
+
+  background-color: #ffffff;
+  border: RGBA(19, 94, 197, 1) solid 2px;
+
+  font-size: 17px;
+  color: RGBA(19, 94, 197, 1);
+  font-weight: 900;
+}
+
+.ViewAll:active {
+  position: absolute;
+  width: 222px;
+  padding-top: 27px;
+  padding-bottom: 26px;
+
+  background-color: #ffffff;
+  border: red solid 2px;
+
+  font-size: 18px;
+  color: red;
+}
+
+.Annoucment {
+  position: absolute;
+  width: 100%;
+  height: 65px;
+  top: 2040px;
+
+  font-size: 60px;
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+  padding-top: 147px;
+  padding-bottom: 338px;
+
+  background-color: RGBA(19, 94, 197, 1);
+}
+
+.ADD {
+  position: absolute;
+  width: 217px;
+  top: 2316px;
+  left: 881px;
+  padding-top: 29px;
+  padding-bottom: 29px;
+
+  font-size: 16px;
+  text-align: center;
+  font-weight: 900;
+  color: #ffffff;
+
+  border-color: rgba(255, 255, 255, 1);
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 35px;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.ADD:hover {
+  position: absolute;
+  width: 219px;
+  padding-top: 31px;
+  padding-bottom: 31px;
+
+  font-size: 18px;
+  color: #3c3c3c;
+
+  background-color: RGBA(226, 226, 226, 1);
+}
+
+.ADD:active {
+  position: absolute;
+  width: 221px;
+  padding-top: 33px;
+  padding-bottom: 33px;
+
+  font-size: 20px;
+  border-color: red;
+  color: red;
+
+  background-color: #e7d7d7;
+}
+
+.SecondCar {
+  position: absolute;
+  width: 624px;
+  height: 236px;
+  top: 2442px;
+  left: 651px;
+
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.SecondCar:hover {
+  position: absolute;
+  width: 629px;
+  height: 241px;
+  top: 2432px;
+}
+
+.SecondCar:active {
+  position: absolute;
+  width: 636px;
+  height: 248px;
+  top: 2420px;
+  left: 660px;
+}
+
+.BackOfOffer {
+  position: absolute;
+  width: 465px;
+  height: 382px;
+  top: 2915px;
+  left: 178px;
+
+  background-color: #ffffff;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+  border-top: #135ec5;
+  border-top-width: 192px;
+  border-top-style: solid;
+}
+
+.BackTextOffer {
+  position: absolute;
+  width: 465px;
+  height: 113px;
+  top: 2954px;
+  left: 177px;
+
+  font-size: 152px;
+  font-weight: 900;
+  color: #0857c5;
+  z-index: 4;
+}
+
+.ShowCar {
+  position: absolute;
+  width: 280px;
+  height: 162px;
+  top: 3041px;
+  left: 268px;
+  z-index: 5;
+
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.ShowCar:hover {
+  position: absolute;
+  width: 288px;
+  height: 170px;
+  top: 3045px;
+}
+
+.ShowCar:active {
+  position: absolute;
+  width: 290px;
+  height: 172px;
+  top: 3046px;
+  left: 270px;
+}
+
+.MersVersion {
+  position: absolute;
+  width: 326px;
+  height: 23px;
+  top: 3246px;
+  left: 270px;
+
+  font-size: 30px;
+  font-weight: 900;
+  color: black;
+}
+
+.MersedesCar {
+  position: absolute;
+  width: 104px;
+  height: 11px;
+  top: 3288px;
+  left: 356px;
+
+  font-size: 14px;
+  font-weight: 900;
+  color: #135ec5;
+}
+
+.SectionCar {
+  position: absolute;
+  width: 267px;
+  height: 15px;
+  top: 3336px;
+  left: 283px;
+
+  font-size: 18px;
+  font-weight: 800;
+  color: #c1c1c1;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.SectionCar:hover {
+  font-size: 20px;
+  color: #0857c5;
+}
+
+.Price {
+  position: absolute;
+  width: 118px;
+  height: 26px;
+  top: 3402px;
+  left: 233px;
+
+  font-size: 30px;
+  font-weight: bolder;
+  color: #16ad2c;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.Price:hover {
+  font-size: 34px;
+  color: green;
+}
+
+.MoreInfoButton {
+  position: absolute;
+  width: 195px;
+  top: 3387px;
+  left: 369px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  font-size: 18px;
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+
+  background-color: RGBA(226, 226, 226, 1);
+  border-radius: 35px;
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.MoreInfoButton:hover {
+  font-size: 19px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+
+  background-color: RGBA(19, 94, 197, 1);
+}
+
+.MoreInfoButton:active {
+  font-size: 20px;
+  padding-top: 23px;
+  padding-bottom: 23px;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: red solid 2px;
+}
+
+.Fresh {
+  position: absolute;
+  width: 88px;
+  top: 2943px;
+  left: 522px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+  font-size: 14px;
+  font-weight: bolder;
+  text-align: center;
+  color: #135ec5;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: white solid 2px;
+  border-radius: 35px;
+  transition-duration: 0.6s;
+  transition-property: all;
+  z-index: 7;
+}
+
+.Fresh:hover {
+  font-size: 15px;
+  width: 89px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  color: #ffffff;
+
+  background-color: #135ec5;
+  border: white solid 2px;
+}
+
+.BackOfCar2 {
+  position: absolute;
+  width: 553px;
+  height: 686px;
+  top: 2840px;
+  left: 845px;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border-right-color: #135ec5;
+  border-right-width: 400px;
+  border-right-style: solid;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+}
+
+.CarShow2 {
+  position: absolute;
+  width: 524px;
+  height: 362px;
+  top: 3003px;
+  left: 1274px;
+
+  transition-duration: 0.9s;
+  transition-property: all;
+}
+
+.CarShow2:hover {
+  position: absolute;
+  width: 535px;
+  height: 373px;
+  left: 1263px;
+}
+
+.MersVersion2 {
+  position: absolute;
+  width: 350px;
+  height: 23px;
+  top: 3062px;
+  left: 904px;
+
+  font-size: 38px;
+  font-weight: 900;
+  color: #135ec5;
+}
+
+.TextBmw2 {
+  position: absolute;
+  width: 318px;
+  height: 157px;
+  top: 3133px;
+  left: 904px;
+
+  font-size: 16px;
+  font-weight: 400;
+  color: #c1c1c1;
+}
+
+.Price2 {
+  position: absolute;
+  width: 118px;
+  height: 26px;
+  top: 2902px;
+  left: 1195px;
+
+  font-size: 36px;
+  font-weight: bolder;
+  color: #16ad2c;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.Price2:hover {
+  font-size: 40px;
+  color: green;
+}
+
+.MersedesCar2 {
+  position: absolute;
+  width: 104px;
+  height: 11px;
+  top: 2911px;
+  left: 905px;
+
+  font-size: 14px;
+  font-weight: 900;
+  color: #c1c1c1;
+}
+
+.OrderNow {
+  position: absolute;
+  width: 217px;
+  top: 3371px;
+  left: 904px;
+  padding-bottom: 29px;
+  padding-top: 29px;
+
+  font-size: 16px;
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border-radius: 35px;
+  border-color: RGBA(19, 94, 197, 1);
+  border-width: 2px;
+  border-style: solid;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.OrderNow:hover {
+  font-size: 17px;
+  width: 219px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  color: RGBA(19, 94, 197, 1);
+
+  background-color: white;
+}
+
+.OrderNow:active {
+  font-size: 18px;
+  width: 221px;
+  padding-bottom: 31px;
+  padding-top: 31px;
+  color: red;
+  border-color: red;
+}
+
+.Iconka {
+  position: absolute;
+  width: 1465px;
+  height: 530px;
+  top: 3675px;
+  left: 257px;
+  background-color: RGBA(255, 255, 255, 1);
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+
+  border-bottom-color: RGBA(19, 94, 197, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 370px;
+}
+
+.IntoSearch {
+  position: absolute;
+  width: 190px;
+  padding-top: 14px;
+  padding-bottom: 47px;
+  top: 4166px;
+  left: 894px;
+
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  color: #ffffff;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border-radius: 30px;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.IntoSearch:hover {
+  font-size: 13px;
+  padding-top: 15px;
+  padding-bottom: 48px;
+  top: 4156px;
+}
+
+.Search {
+  position: absolute;
+  width: 207px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  top: 4455px;
+  left: 887px;
+
+  font-size: 16px;
+  font-weight: bolder;
+  text-align: center;
+  color: #135ec5;
+
+  background-color: #ffffff;
+  border-radius: 35px;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  transition-duration: 0.8s;
+  transition-property: all;
+}
+
+.Search:hover {
+  font-size: 17px;
+  width: 210px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  color: white;
+
+  background-color: #135ec5;
+}
+
+.Search:active {
+  font-size: 18px;
+  width: 212px;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  color: red;
+
+  border-color: red;
+}
+
+.Make2 {
+  position: absolute;
+  width: 305px;
+  height: 15px;
+  top: 3749px;
+  left: 308px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Warsaw {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 3749px;
+  left: 659px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Category {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 3750px;
+  left: 1015px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Keywords {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 3749px;
+  left: 1369px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.PriceFrom {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4052px;
+  left: 308px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.To1 {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4053px;
+  left: 659px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.YearsFrom {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4052px;
+  left: 1013px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.To2 {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4053px;
+  left: 1368px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #c1c1c1;
+
+  background-color: RGBA(255, 255, 255, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.LogoCar1Bottom {
+  position: absolute;
+  width: 53px;
+  height: 43px;
+  top: 3912px;
+  left: 307px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar1Bottom:hover {
+  position: absolute;
+  width: 56px;
+  height: 46px;
+}
+
+.LogoCar2Bottom {
+  position: absolute;
+  width: 88px;
+  height: 46px;
+  top: 3911px;
+  left: 510px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar2Bottom:hover {
+  position: absolute;
+  width: 91px;
+  height: 49px;
+}
+
+.LogoCar3Bottom {
+  position: absolute;
+  width: 52px;
+  height: 51px;
+  top: 3908px;
+  left: 748px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar3Bottom:hover {
+  position: absolute;
+  width: 55px;
+  height: 54px;
+}
+
+.LogoCar4Bottom {
+  position: absolute;
+  width: 56px;
+  height: 55px;
+  top: 3906px;
+  left: 967px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar4Bottom:hover {
+  position: absolute;
+  width: 59px;
+  height: 58px;
+}
+
+.LogoCar5Bottom {
+  position: absolute;
+  width: 94px;
+  height: 37px;
+  top: 3915px;
+  left: 1168px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar5Bottom:hover {
+  position: absolute;
+  width: 97px;
+  height: 40px;
+}
+
+.LogoCar6Bottom {
+  position: absolute;
+  width: 47px;
+  height: 51px;
+  top: 3908px;
+  left: 1412px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar6Bottom:hover {
+  position: absolute;
+  width: 50px;
+  height: 54px;
+}
+
+.LogoCar7Bottom {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  top: 3909px;
+  left: 1626px;
+  transition-duration: 0.5s;
+  transition-property: all;
+}
+
+.LogoCar7Bottom:hover {
+  position: absolute;
+  width: 63px;
+  height: 53px;
+}
+
+.Transmission {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4238px;
+  left: 307px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Fuel {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4238px;
+  left: 662px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Drive {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4238px;
+  left: 1014px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Cylinders {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4238px;
+  left: 1367px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Power {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4338px;
+  left: 307px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Engine {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4340px;
+  left: 662px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Towing {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4339px;
+  left: 1013px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
+
+.Induction {
+  position: absolute;
+  width: 305px;
+  height: 16px;
+  top: 4338px;
+  left: 1368px;
+
+  font-size: 18px;
+  text-align: left;
+  font-weight: 700;
+  color: #d8d7d7;
+
+  background-color: RGBA(19, 94, 197, 1);
+  border: none;
+  border-bottom: #c1c1c1;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding: 1vw 0vw;
+}
