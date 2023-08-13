@@ -1,0 +1,133 @@
+body {
+  background-color: blanchedalmond;
+  width: 100%;
+}
+
+.Table {
+  position: absolute;
+  width: 500px;
+  height: 800px;
+  top: 25px;
+  margin-left: 35%;
+
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.Head {
+  position: absolute;
+  width: 315px;
+  height: 30px;
+  top: 75px;
+  padding-left: 77px;
+
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+
+.EmailText {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 172px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.PasswordText {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 270px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.Submit {
+  position: absolute;
+  width: 285px;
+  height: 55px;
+  top: 615px;
+  left: 93px;
+
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+
+  border: none;
+  background: linear-gradient(45deg, #15ff00, #ffe601);
+  border-radius: 35px;
+  transition-property: all;
+  transition-duration: 0.8s;
+}
+
+.Submit:hover {
+  position: absolute;
+  width: 289px;
+  height: 59px;
+
+  font-size: 24px;
+}
+
+.UserName {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 370px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.tel {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 470px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}

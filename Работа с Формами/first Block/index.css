@@ -1,0 +1,113 @@
+body {
+  background-color: blanchedalmond;
+  width: 100%;
+}
+
+.Table {
+  position: absolute;
+  width: 500px;
+  height: 600px;
+  top: 25px;
+  margin-left: 35%;
+
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.7);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.Head {
+  position: absolute;
+  width: 315px;
+  height: 30px;
+  top: 75px;
+  padding-left: 77px;
+
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+
+.EmailText {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 172px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.PasswordText {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 270px;
+  left: 93px;
+
+  font-size: 18px;
+  font-weight: 500;
+  color: grey;
+
+  border: none;
+  background-color: white;
+  border-bottom-color: grey;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.Submit {
+  position: absolute;
+  width: 285px;
+  height: 55px;
+  top: 375px;
+  left: 93px;
+
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+
+  border: none;
+  background: linear-gradient(45deg, #00b7ff, #e101ff);
+  border-radius: 35px;
+  transition-property: all;
+  transition-duration: 0.8s;
+}
+
+.Submit:hover {
+  position: absolute;
+  width: 289px;
+  height: 59px;
+
+  font-size: 24px;
+}
+
+.Asking {
+  position: absolute;
+  width: 220px;
+  height: 10px;
+  top: 555px;
+  left: 54px;
+}
+
+.TakeIt {
+  position: absolute;
+  width: 100px;
+  height: 10px;
+  top: 555px;
+  left: 243px;
+}
